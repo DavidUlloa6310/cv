@@ -1,0 +1,26 @@
+  /* Palette Used: https://colorhunt.co/palette/2763 */
+  h1 {
+    color: #00adb5;
+    text-shadow: 3px 2px #393e46;
+  }
+
+  h3 {
+    color: #00adb5;
+    text-shadow: 3px 2px #393e46;
+  }
+  a {
+    color: #eeeeee;
+  }
+
+  body {
+    background-color: #222831;
+    color: #eeeeee;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-color: #00adb5;
+    border-width: 5px;
+  }
